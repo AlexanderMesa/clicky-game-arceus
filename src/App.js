@@ -51,6 +51,7 @@ class App extends Component {
           <p style={{ fontSize: "60px" }}>
             <b>Arceus Clicky Game</b>
           </p>
+          <p>Don't click on the same image more than once!</p>
           <p>Current Score: {currentScore}</p>
           <p>High Score: {localStorage.getItem("highScore")}</p>
           <div className="images-group" onClick={this.clickEvent}>
