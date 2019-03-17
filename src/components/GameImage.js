@@ -31,7 +31,7 @@ class GameImage extends React.Component {
         <img
           src={this.props.image}
           alt={this.props.name}
-          style={{ width: "200px", height: "200px" }}
+          style={{ width: "150px", height: "150px" }}
         />
         <p>{/*!this.state.isClicked ? "false" : "true"*/}</p>
       </div>

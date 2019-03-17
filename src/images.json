@@ -1,42 +1,92 @@
 [
   {
     "id": 1,
-    "image": "https://www.tapatalk.com/groups/nintendobuddyboards/imageproxy.php?url=http://i1280.photobucket.com/albums/a487/Mcflyeon/NBB%20Pokemon%20of%20the%20Week%20pics/493Arceus_Normal_Dream_zps163d138a.png",
+    "image": "https://cdn.bulbagarden.net/upload/4/40/493Arceus_Normal_Dream.png",
     "name": "Arceus-Normal"
   },
   {
     "id": 2,
-    "image": "https://t3.rbxcdn.com/e7538b94d3e51e9de2f5ead27852e40f",
+    "image": "https://cdn.bulbagarden.net/upload/7/79/493Arceus_Bug_Dream.png",
     "name": "Arceus-Bug"
   },
   {
     "id": 3,
-    "image": "https://www.tapatalk.com/groups/nintendobuddyboards/imageproxy.php?url=http://i1280.photobucket.com/albums/a487/Mcflyeon/NBB%20Pokemon%20of%20the%20Week%20pics/493Arceus_Grass_Dream_zps702eb613.png",
+    "image": "https://cdn.bulbagarden.net/upload/c/cc/493Arceus_Grass_Dream.png",
     "name": "Arceus-Grass"
   },
   {
     "id": 4,
-    "image": "https://www.tapatalk.com/groups/nintendobuddyboards/imageproxy.php?url=http://i1280.photobucket.com/albums/a487/Mcflyeon/493Arceus_Ground_Dream_zps3c4833f2.png",
+    "image": "https://cdn.bulbagarden.net/upload/9/90/493Arceus_Ground_Dream.png",
     "name": "Arceus-Ground"
   },
   {
     "id": 5,
-    "image": "https://www.tapatalk.com/groups/nintendobuddyboards/imageproxy.php?url=http://i1280.photobucket.com/albums/a487/Mcflyeon/NBB%20Pokemon%20of%20the%20Week%20pics/493Arceus_Psychic_Dream_zps97f9bdd9.png",
+    "image": "https://cdn.bulbagarden.net/upload/c/c9/493Arceus_Psychic_Dream.png",
     "name": "Arceus-Psychic"
   },
   {
     "id": 6,
-    "image": "https://www.tapatalk.com/groups/nintendobuddyboards/imageproxy.php?url=http://i1280.photobucket.com/albums/a487/Mcflyeon/NBB%20Pokemon%20of%20the%20Week%20pics/493Arceus_Poison_Dream_zpsa9c02812.png",
+    "image": "https://cdn.bulbagarden.net/upload/2/27/493Arceus_Poison_Dream.png",
     "name": "Arceus-Poison"
   },
   {
     "id": 7,
-    "image": "https://www.tapatalk.com/groups/nintendobuddyboards/imageproxy.php?url=http://i1280.photobucket.com/albums/a487/Mcflyeon/NBB%20Pokemon%20of%20the%20Week%20pics/493Arceus_Ice_Dream1_zpseadcd761.png",
+    "image": "https://cdn.bulbagarden.net/upload/5/52/493Arceus_Ice_Dream.png",
     "name": "Arceus-Ice"
   },
   {
     "id": 8,
-    "image": "https://www.tapatalk.com/groups/nintendobuddyboards/imageproxy.php?url=http://i1280.photobucket.com/albums/a487/Mcflyeon/NBB%20Pokemon%20of%20the%20Week%20pics/493Arceus_Rock_Dream_zps5ea93873.png",
+    "image": "https://cdn.bulbagarden.net/upload/b/bd/493Arceus_Rock_Dream.png",
     "name": "Arceus-Rock"
+  },
+  {
+    "id": 9,
+    "image": "https://cdn.bulbagarden.net/upload/b/b2/493Arceus_Electric_Dream.png",
+    "name": "Arceus-Electric"
+  },
+  {
+    "id": 10,
+    "image": "https://cdn.bulbagarden.net/upload/c/c8/493Arceus_Dark_Dream.png",
+    "name": "Arceus-Dark"
+  },
+  {
+    "id": 11,
+    "image": "https://cdn.bulbagarden.net/upload/0/02/493Arceus_Ghost_Dream.png",
+    "name": "Arceus-Ghost"
+  },
+  {
+    "id": 12,
+    "image": "https://cdn.bulbagarden.net/upload/a/ab/493Arceus_Steel_Dream.png",
+    "name": "Arceus-Steel"
+  },
+  {
+    "id": 13,
+    "image": "https://cdn.bulbagarden.net/upload/c/c4/493Arceus_Fighting_Dream.png",
+    "name": "Arceus-Fighting"
+  },
+  {
+    "id": 14,
+    "image": "https://cdn.bulbagarden.net/upload/9/96/493Arceus_Dragon_Dream.png",
+    "name": "Arceus-Dragon"
+  },
+  {
+    "id": 15,
+    "image": "https://cdn.bulbagarden.net/upload/c/c7/493Arceus_Fairy_Dream.png",
+    "name": "Arceus-Fairy"
+  },
+  {
+    "id": 16,
+    "image": "https://cdn.bulbagarden.net/upload/8/8a/493Arceus_Water_Dream.png",
+    "name": "Arceus-Water"
+  },
+  {
+    "id": 17,
+    "image": "https://cdn.bulbagarden.net/upload/b/b0/493Arceus_Fire_Dream.png",
+    "name": "Arceus-Fire"
+  },
+  {
+    "id": 18,
+    "image": "https://cdn.bulbagarden.net/upload/a/a7/493Arceus_Flying_Dream.png",
+    "name": "Arceus-Flying"
   }
 ]

@@ -59,7 +59,7 @@ class App extends Component {
               <Row>
                 {images.map(item => (
                   <div key={item.id}>
-                    <Col lg={4}>
+                    <Col sm={2}>
                       <GameImage image={item.image} name={item.name} />
                     </Col>
                   </div>
