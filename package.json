@@ -2,6 +2,7 @@
   "name": "clicky-game-arceus",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://alexandermesa.github.io/clicky-game-arceus",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
@@ -16,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "npm run build&&gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -26,6 +27,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "homepage": "https://alexandermesa.github.io/clicky-game-arceus"
+  ]
 }
